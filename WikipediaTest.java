@@ -10,7 +10,7 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.locators.RelativeLocator;
 
-public class Fatimzahra {
+public class Project1 {
 
 	public static void main(String[] args) throws InterruptedException, IOException {
 		
